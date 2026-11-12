@@ -1,0 +1,160 @@
+Part 1 — Your everyday assistant
+1. What are the five most important things you want JARVIS to do for you every day?
+
+2. Should JARVIS be available only when you open it, or should it automatically start when you switch on your laptop?
+
+3. Should it always wait for your instructions, or should it occasionally notify you about useful things it discovers?
+
+4. How should it address you? By your name, casually like a friend, or simply get straight to the work?
+
+5. Should it remember your preferences, commonly used folders, applications and working habits?
+Part 2 — File management
+
+
+
+
+
+
+
+
+news.tuxmachines.org
+
+
+6. Which file types should JARVIS understand?
+
+For example: PDF, DOCX, TXT, Python, Java, images, videos, audio, ZIP files and more.
+
+7. Should it search your entire laptop or only specific folders that you allow?
+
+8. Should it find files using names, extensions, dates, sizes and words contained inside documents?
+
+9. When it finds files, how should it display them?
+
+For example: file name, location, size, modified date and a preview.
+
+10. Should it read documents and tell you what's inside them, including PDFs and text files?
+
+11. Should it eventually organise files into folders, rename files and detect duplicates, or should it remain read-only?
+Part 3 — Screen and application understanding
+
+
+
+
+
+
+
+
+jonathan.vargas.cr
+
+
+12. When you say read my screen, what exactly do you expect?
+
+Read the entire screen, the active window, or a particular selected region?
+
+13. Should it extract visible text exactly as it appears, or should it also explain what you're looking at?
+
+14. Should JARVIS recognise which application you're currently using?
+
+For example, terminal, browser, VS Code, file manager or PDF reader.
+
+15. Should it be able to read terminal output and explain errors when you're coding or working on cybersecurity labs?
+
+16. Should it be able to take screenshots and save them into a folder when you instruct it?
+Part 4 — Laptop control
+17. Which system details should it retrieve?
+
+Storage, RAM usage, CPU usage, battery, running processes, network information, installed applications, etc.
+
+18. Should it open applications for you?
+
+For example, Firefox, VS Code, terminal, file manager and other installed applications.
+
+19. Should it be able to interact with applications, such as clicking buttons, selecting text and entering information?
+
+20. Should it manage your clipboard?
+
+For example, remembering copied text, showing clipboard contents and retrieving previous copies.
+
+21. Should it eventually manage notifications and remind you about tasks?
+Part 5 — Learning and behaviour
+22. When you correct JARVIS, should it remember that correction permanently and use it next time?
+
+23. Should it learn your preferred way of performing tasks?
+
+For example, you always prefer opening PDFs with a particular application.
+
+24. Should it remember sequences of actions and eventually combine them into a reusable workflow?
+
+25. When it doesn't understand an instruction, should it ask you a question rather than guess?
+
+26. Should it remember your previous conversations and tasks, or only retain useful operational memories?
+Part 6 — Safety and personality of operation
+27. Which operations must ALWAYS require your permission?
+
+Deleting files, modifying files, installing software, running terminal commands, changing settings, accessing sensitive folders, etc.
+
+28. What should JARVIS absolutely NEVER do, even if it thinks the operation would be useful?
+
+29. How should it respond when it completes a task?
+
+For example: just display the results, explain what it did, or give a short completion message.
+
+30. Imagine JARVIS is fully developed. What is the one thing you'd love to tell it every morning and have it take care of without repeatedly explaining yourself?
+
+How we'll use your answers
+Once you've answered, we'll create three things:
+1. JARVIS Personal Requirements Document — exactly what it should and shouldn't do.
+2. Capability Blueprint — the initial skills and their priorities.
+3. Neuron Behaviour Blueprint — what inputs it receives, how signals are processed, which decisions it can make and how it learns.
+We'll then give Claude the approved specifications and modify the existing project accordingly.
+
+One rule, bro: we're designing JARVIS around you, not forcing you to adapt to JARVIS.
+
+Take your time. I especially want to hear your answer to question 30. That's where the real vision might come out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. i) Notify things which i said earilier ii) files access iii) need to always call me 'Sir' iv) need to keep scecrets for me v) need to do the work which i said but if it fails to do it should mention it i failed sir and i tried these or tell me better ones cause i am still not fully aware to what it need to do for me daily it may change right bro
+2. It should start automatically when i switch one
+3. it occasionally notify you about useful things it discovers
+4. 'SIR'
+5. yes
+6. for now dox pdf txt
+7. Entire laptop
+8. Yes
+9. Direct the file itself it should open where it is and it should open the file like having control and open it shouldn't do in the background okay bro
+10. Only if i say
+11. It should check and mention for every 2 days that there any duplicate files and organise files into folders
+12. It should ask me what i want to specifi if i say all it should summerize it and if i say selected part that to if it need to try hard and if it fails yes then it should mention i can't understand that but with a joke
+13. Explain what i am looking at and for a few minutes or seconds if it had a valuable point on what i am looking it need to tell that so that it makes it intellegent
+14. yes
+15. yes
+16. yes
+17. All
+18. Yes
+19. Yes
+20. No
+21. YES
+22. Yes that's the whole idea
+23. Yes
+24. Yes
+25. ask
+26. yes
+27. Deleting files, modifying files, installing software, running terminal commands, changing settings, accessing sensitive folders, all of these it should ask my permission
+28. Deleting the OS or changing the os or locking files without telling me and mainly it should never answer the things i do i want it to respond to my voice only type thing
+29. If it is a simple one it should just display and say done sir and if it's a complicated one it should explain what it did and how it did
+30. I didn't get the question bro
